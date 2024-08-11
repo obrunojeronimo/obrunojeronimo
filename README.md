@@ -1,5 +1,5 @@
 # About Me:
-Analista de Implantação na Fortes Tecnologia.<br>Bacharel em Administração e pós-graduando em Data Science.
+Analista de Planejamento Estratégico na Sicredi Ceará.<br>Bacharel em Administração e pós-graduando em Data Science.
 
 
 ## Socials:
