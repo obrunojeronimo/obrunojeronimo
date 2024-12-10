@@ -40,7 +40,7 @@ Atuo como palestrante e educador, já tendo participado de eventos como **Data W
 
 ## 🌐 Vamos nos conectar?  
 - 💼 [LinkedIn](https://www.linkedin.com/in/brunojeronimo/)  
-- 🐦 [Twitter (ou outro, se houver)](https://twitter.com/...)  
-- 📧 Email: brunojeronimo@example.com  
+- 🐦 [Twitter (ou outro, se houver)](https://twitter.com/obrunojeronimo)  
+- 📧 Email: brnjeronimo@gmail.com  
 
 🎉 **Sempre aberto a colaborações e novas ideias! Vamos transformar dados em decisões?**
