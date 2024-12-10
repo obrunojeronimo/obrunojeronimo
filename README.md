@@ -1,18 +1,47 @@
-# About Me:
-Analista de Planejamento Estratégico na Sicredi Ceará.<br>Bacharel em Administração e pós-graduando em Data Science.
+# 👋 Olá, sou Bruno Jerônimo!  
 
-
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/obrujeronimo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/brunojeronimo) 
-
-# Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=obrunojeronimo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=obrunojeronimo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=obrunojeronimo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎯 **Analista de Planejamento Estratégico no Sicredi | Especialista em Dados | Educador**  
+🚀 Explorando soluções que conectam dados e estratégia para impulsionar resultados!
 
 ---
-[![](https://visitcount.itsvg.in/api?id=obrunojeronimo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Sobre mim  
+Sou apaixonado por dados e tecnologia, sempre buscando transformar informações complexas em insights poderosos para tomadas de decisão. Minha experiência inclui:  
+- 📊 **Análise de dados** para identificar oportunidades e tendências estratégicas.  
+- 💡 **Criação de dashboards no Power BI** que vão além do "estamos bem ou não", entregando contexto e ações.  
+- ⚙️ **Automatização de processos** usando Power Automate e Python, otimizando fluxos e reduzindo erros.  
+- 👨‍🏫 **Educação**: Ensino de algoritmos computacionais e comunicação de dados, ajudando futuros analistas e desenvolvedores a encontrarem soluções práticas.  
+
+Adoro desafios que envolvem organização de dados desatualizados, melhoria de pipelines e implementação de boas práticas de código.
+
+---
+
+## 🚀 Projetos em destaque  
+- 📈 **Calculadora de projetos para iniciantes em dados**  
+  Uma ferramenta simples para orientar desenvolvedores e analistas recém-formados na estimativa de esforço e recursos necessários.  
+
+- 🔄 **Pipeline automatizado de dados**  
+  Projeto de integração usando Power Automate, Planner e SharePoint, conectado ao Power BI, para centralizar e otimizar informações estratégicas.
+
+- 🎓 **Exemplos de algoritmos em Python**  
+  Repositório criado como material complementar para minhas aulas, com foco em aprendizado prático.
+
+---
+
+## 📊 Estatísticas do GitHub  
+![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&theme=radical)  
+![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=radical)
+
+---
+
+## 📚 Compartilhando conhecimento  
+Atuo como palestrante e educador, já tendo participado de eventos como **Data Week** e **PyLestras**. Gosto de compartilhar boas práticas e inspirações sobre Python, análise de dados e visualização estratégica.  
+
+---
+
+## 🌐 Vamos nos conectar?  
+- 💼 [LinkedIn](https://www.linkedin.com/in/brunojeronimo/)  
+- 🐦 [Twitter (ou outro, se houver)](https://twitter.com/...)  
+- 📧 Email: brunojeronimo@example.com  
+
+🎉 **Sempre aberto a colaborações e novas ideias! Vamos transformar dados em decisões?**
