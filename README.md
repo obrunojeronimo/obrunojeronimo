@@ -29,8 +29,8 @@ Adoro desafios que envolvem organização de dados desatualizados, melhoria de p
 ---
 
 ## 📊 Estatísticas do GitHub  
-![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&theme=radical)  
-![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=radical)
+![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=obrunojeronimob&layout=compact&theme=radical)  
+![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=obrunojeronimo&show_icons=true&theme=radical)
 
 ---
 
