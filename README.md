@@ -1,6 +1,6 @@
 # Bruno Jerônimo  
 
-Analista de Planejamento Estratégico no Sicredi, professor universitário na Uniateneu e pós-graduado em Ciência de Dados. Meu foco é explorar Python, R e análise de dados para apoiar a tomada de decisões estratégicas.  
+Assessor de Dados na Sicredi, professor universitário na Uniateneu e pós-graduado em Ciência de Dados. Meu foco é explorar Python, R e análise de dados para apoiar a tomada de decisões estratégicas.  
 
 ## Sobre  
 
