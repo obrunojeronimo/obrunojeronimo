@@ -1,10 +1,9 @@
-# Bruno Jerônimo  
+# Bruno Jerônimo
 
-Assessor de Dados na Sicredi, professor universitário na Uniateneu e pós-graduado em Ciência de Dados.
+Data Advisor at Sicredi and IT Professor  
+Data Analysis and Data Science  
 
-## Sobre  
+Python | SQL | Power BI  
 
--  Experiência com dados e automação de processos.
--  Conhecimento em Python, Power BI, Excel, Javascript e SQL.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=obrunojeronimo&show_icons=true&hide_title=true&count_private=true&hide=contribs&theme=default)
+[LinkedIn](https://www.linkedin.com/in/brunojeronimo)  
+[Instagram](https://www.instagram.com/obrunojeronimo/)
